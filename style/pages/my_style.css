@@ -1,0 +1,110 @@
+/* -----------FONTS--------- */
+
+.sub_p_font{
+    font-family: var(--font_Roboto);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: -0.2px;
+    /* text-align: left; */
+    
+}
+.header_footer_font{
+    font-family: var(--font_Roboto);
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: -0.1px;
+    /* text-align: right; */
+}
+.logo_font{
+    font-family: var(--font_Rubik);
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 33.18px;
+    letter-spacing: -0.1px;
+    /* text-align: left; */
+    
+}
+.head_font_left{
+    font-family: var(--font_Roboto);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1.2;
+    text-align: left;
+    color: var(--whiteColor);
+}
+.head_font_center{
+    font-family: var(--font_Roboto);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -1.2px;
+    text-align: center;
+    color: var(--footerColor_TextColor);
+}
+
+.p_font_left{
+    font-family: var(--font_Roboto);
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.2px;
+    text-align: left; 
+    color: var(--whiteColor);
+    opacity: 65%;
+}
+
+
+.sub_head_font{
+    font-family: var(--font_Roboto);
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: -0.5px;
+    /* text-align: left; */
+}
+
+.span_font{
+    font-family: var(--font_Roboto);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: -0.1px;
+    /* text-align: left; */   
+}
+
+/* -------OTHER--------  */
+.dsp-flex{
+    display: flex;
+}
+.jb_square-block{
+    width: 350px;
+    height: 117px; 
+    background-color: var(--whiteColor);
+    box-shadow: 0px 34px 33px -23px #161c2d21;
+    border-radius: 8px;
+    
+    
+}
+.job_category-list{
+    display: flex;
+    gap: 30px;
+  
+    
+    
+}
+.p-w{
+    width: 388px;
+    
+}
+.pd{
+    padding: 26px 0px 59px 32px;
+}
+.text-center{
+    text-align: center;
+}
+.b-btm{
+    border-bottom: 1px solid #E7E9ED;
+}
